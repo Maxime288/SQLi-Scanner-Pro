@@ -30,7 +30,7 @@ Bases de données détectées :
 ```bash
 # Cloner le dépôt
 git clone https://github.com/Maxime288/SQLi-Scanner-Pro.git
-cd sqli-scanner
+cd SQLi-Scanner-Pro
 
 # Installer les dépendances
 pip install requests
