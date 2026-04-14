@@ -29,7 +29,7 @@ Bases de données détectées :
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/Maxime288/sqli-scanner.git
+git clone https://github.com/Maxime288/SQLi-Scanner-Pro.git
 cd sqli-scanner
 
 # Installer les dépendances
